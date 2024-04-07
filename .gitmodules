@@ -1,0 +1,6 @@
+[submodule "libs/bevy_flat_arrays"]
+	path = libs/bevy_flat_arrays
+	url = https://github.com/DirkChristianBecker/bevy_flat_arrays.git
+[submodule "libs/bevy_inventory_system"]
+	path = libs/bevy_inventory_system
+	url = https://github.com/DirkChristianBecker/bevy_inventory_system.git
