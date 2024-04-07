@@ -1,2 +1,2 @@
-# Bevy Project Template
-A template to quickly start new bevy projects.
+# Yazomsug...
+..is a game made with bevy. This repository only contains the code.
